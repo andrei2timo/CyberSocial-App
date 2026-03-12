@@ -43,5 +43,5 @@ CyberSocial is a mobile application developed with **Flutter**, designed to enha
    flutter run
 
 ## 📝 License
-**This project is open-source and available for educational purposes.
+This project is open-source and available for educational purposes.
 
