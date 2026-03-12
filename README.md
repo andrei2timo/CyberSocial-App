@@ -17,6 +17,8 @@ CyberSocial is a mobile application developed with **Flutter**, designed to enha
 | ![Login](screenshots/1.jpeg) | ![Feed](screenshots/2.jpeg) | ![Report](screenshots/3.jpeg) | ![Map](screenshots/4.jpeg) | ![Contacts](screenshots/5.jpeg) | ![Profile](screenshots/6.jpeg) | ![Notifications](screenshots/7.jpeg) | ![SOS](screenshots/8.jpeg) |
 
 ## 🎥 Demo
+
+Check the aplication functionality below:
 ![App Demo](screenshots/demo.gif)
 
 ## 🛠 Technologies Used
