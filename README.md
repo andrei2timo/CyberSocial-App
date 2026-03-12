@@ -12,9 +12,9 @@ CyberSocial is a mobile application developed with **Flutter**, designed to enha
 
 ## 📸 App Preview
 
-| Login | Localized Feed | Reporting | Live Map | Emergency Settings |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Login](screenshots/1.jpeg) | ![Feed](screenshots/2.jpeg) | ![Report](screenshots/3.jpeg) | ![Map](screenshots/4.jpeg) | ![Settings](screenshots/5.jpeg) |
+| Login | Feed | Report | Live Map | Contacts | Profile | Notifications | SOS SMS |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Login](screenshots/1.jpeg) | ![Feed](screenshots/2.jpeg) | ![Report](screenshots/3.jpeg) | ![Map](screenshots/4.jpeg) | ![Contacts](screenshots/5.jpeg) | ![Profile](screenshots/6.jpeg) | ![Notifications](screenshots/7.jpeg) | ![SOS](screenshots/8.jpeg) |
 
 *(Note: Ensure your screenshots are placed in a folder named `screenshots` within your repository for these links to display correctly.)*
 
