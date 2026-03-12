@@ -30,3 +30,18 @@ CyberSocial is a mobile application developed with **Flutter**, designed to enha
 1. **Clone this repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/CyberSocial-App.git](https://github.com/YOUR_USERNAME/CyberSocial-App.git)
+
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+
+3. **Configure Firebase:**
+   *Ensure you have your google-services.json file in the android/app/ folder and that you have initialized Firebase via flutterfire configure.*
+
+4. **Run the app:**
+   ```bash
+   flutter run
+
+## 📝 License
+**This project is open-source and available for educational purposes.
+
